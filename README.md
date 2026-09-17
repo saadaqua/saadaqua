@@ -14,6 +14,7 @@ An aspiring **Software Developer/Engineer** based in London, focused on building
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Python
 - **Tools & Platforms:** Git, GitHub, VS Code
+- **AI Assistance:** Used AI as a pair-programming assistant for debugging and code optimization (e.g. variable/function names) while independently designing the core application logic.
 
 ---
 
