@@ -6,7 +6,7 @@ An aspiring **Software Developer/Engineer** based in London, focused on building
 
 ### 🚀 About Me
 - 💡 **Passion:** Building web applications, solving logical challenges, and writing clean code.
-- 🎯 **Current Focus:** Deepening my knowledge in JavaScript and Python.
+- 🎯 **Current Focus:** Deepening my knowledge in JavaScript and Python and trying to achieve an Apprenticeship.
 - 📍 **Location:** London, UK
 
 ---
