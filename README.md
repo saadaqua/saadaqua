@@ -19,8 +19,7 @@ An aspiring **Software Developer/Engineer** based in London, focused on building
 ---
 
 ### 📁 Featured Projects
-- **[London Property Search]** – A application where you have many tools to use to find the perfect house for you in London. ` - Done with Python
-- **[Project Name]** – Brief 1-sentence description of what it does. ` - Done with JavaScript
+* **[UK Housing Search Application](https://github.com/saadaqua/UK-Housing-Search-Application)** – A Python application that parses UK property listings, filters postcodes, and has many tools to assist the user. `[Python]`
 
 ---
 
