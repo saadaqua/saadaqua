@@ -24,4 +24,4 @@ An aspiring **Software Developer/Engineer** based in London, focused on building
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/saad-akbar-a878463a5/) | [Email](mailto:akbarsaad021@gmail.com)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/saad-akbar-a878463a5/) | ✉️ akbarsaad021@gmail.com
