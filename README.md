@@ -19,9 +19,8 @@ An aspiring **Software Developer/Engineer** based in London, focused on building
 ---
 
 ### 📁 Featured Projects
-*(As you build separate repos, link them here!)*
-- **[Project Name]** – Brief 1-sentence description of what it does. `[JavaScript / Python]`
-- **[Project Name]** – Brief 1-sentence description of what it does. `[HTML / CSS]`
+- **[London Property Search]** – A application where you have many tools to use to find the perfect house for you in London. ` - Done with Python
+- **[Project Name]** – Brief 1-sentence description of what it does. ` - Done with JavaScript
 
 ---
 
