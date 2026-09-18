@@ -5,7 +5,7 @@ An aspiring **Software Developer/Engineer** based in London, focused on building
 ---
 
 ### 🚀 About Me
-- 💡 **Passion:** Building web applications, solving logical challenges, and writing clean code.
+- 💡 **Passion:** Debugging code, creating new applications, solving logical challenges, and writing clean code.
 - 🎯 **Current Focus:** Deepening my knowledge in JavaScript and Python and trying to achieve an Apprenticeship.
 - 📍 **Location:** London, UK
 
@@ -19,7 +19,7 @@ An aspiring **Software Developer/Engineer** based in London, focused on building
 ---
 
 ### 📁 Featured Projects
-* **[UK Housing Search Application](https://github.com/saadaqua/UK-Housing-Search-Application)** – A Python application that parses UK property listings, filters postcodes, and has many tools to assist the user. `[Python]`
+* **[UK Housing Search Application](https://github.com/saadaqua/UK-Housing-Search-Application)** – A Python application that lises London properties, filters postcodes, and has many tools to assist the user. `[Python]`
 
 ---
 
